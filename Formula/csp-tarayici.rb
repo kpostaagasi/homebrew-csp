@@ -3,8 +3,8 @@ class CspTarayici < Formula
 
   desc "Cash-secured put scanner with a curses TUI, no API keys"
   homepage "https://github.com/kpostaagasi/csp-tarayici"
-  url "https://github.com/kpostaagasi/csp-tarayici/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "7ff9e3d2c211b1ef95aa3b2a60ab34b74446a6953231409e856867bfbe1fdf94"
+  url "https://github.com/kpostaagasi/csp-tarayici/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "a2618a1d5005204d6d5f7588e1006e6dce29fc33ad6d9af610dfa83cc592ec1c"
   license "MIT"
 
   depends_on "python@3.13"
